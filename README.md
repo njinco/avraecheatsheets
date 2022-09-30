@@ -27,7 +27,7 @@
 
 | Command                     | Description                                              | Notes                                                      |
 | --------------------------- | -------------------------------------------------------- | ---------------------------------------------------------- |
-| `!cast <spell_name> [args]` | Displays information about your D&D Beyond account link. | Common args: `adv`, `dis`                                  |
+| `!cast <spell_name> [args]` | Displays information about the Spell you cast and consume related spell slot. | Common args: `adv`, `dis`                                  |
 | `!attack/!a [name] [args]`     | Roll an attack for the current character                 | If you can't remember the attack name use `/attack list`   |
 | `!check/!c <check> [args]`     | Roll a check for your current character                  | Common args: `adv`/`dis`                                   |
 | `!save/!s <skill>`             | Roll a saving throw for your current character           | Common skills: `str`,`dex`,`con`,`int`,`wis`,`cha`,`death` |
