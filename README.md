@@ -4,13 +4,14 @@
 
 ## Setup & Character Management
 
-| Command             | Description                                                     | Notes             |
-| ------------------- | --------------------------------------------------------------- | ----------------- |
-| `!ddb`              | Displays information about your D&D Beyond account link.        |                   |
-| `!beyond <url>`     | Loads a character sheet from D&D Beyond, resetting all settings |                   |
+| Command                   | Description                                                     | Notes             |
+| ------------------------- | --------------------------------------------------------------- | ----------------- |
+| `!ddb`                    | Displays information about your D&D Beyond account link.        |                   |
+| `!beyond <url>`           | Loads a character sheet from D&D Beyond, resetting all settings |                   |
 | `!character/!char [name]` | Switch active character                                         | `!character list` |
-| `!update`           | Update the current character sheet, preserving all settings     |                   |
-| `!portrait`         | Shows the image of your currently active character              |                   |
+| `!update`                 | Update the current character sheet, preserving all settings     |                   |
+| `!portrait`               | Shows the image of your currently active character              |                   |
+| `!level`                  | Make sure to run this after importing to create needed counters for your class |        |
 
 ## HP and Spell Slots
 
