@@ -1,4 +1,4 @@
-# Avrae Cheat Sheet for go.enkiel.tv/discord server
+# Avrae Cheat Sheet for [The Playground Discord Server](go.enkiel.tv/discord)
 
 > Get Avrae bot [here](https://avrae.io/)
 
